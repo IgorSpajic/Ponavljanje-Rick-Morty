@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(247, 79, 79);
+}
+.nav {
+  text-align: center;
+  border-style: groove;
+  border-color: red;
+}
+#favoritesContainer {
+  display: block;
+}
+#favoritesContainer img {
+  position: relative;
+  width: 230px;
+  height: auto;
+  margin-left: 33px;
+}
+#favoritesContainer button {
+  position: relative;
+  height: 20px;
+  margin-left: -187px;
+  border-color: rgb(255, 0, 0);
+  color: black;
+}
